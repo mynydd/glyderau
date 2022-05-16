@@ -1,0 +1,13 @@
+{
+  "id" : "https://mynydd.github.io/glyderau/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in mynydd/glyderau project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mynydd.github.io/glyderau/manifests/manifest3.json",
+    "label" : "Glyderau"
+  } ]
+}
