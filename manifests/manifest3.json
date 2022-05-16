@@ -1,0 +1,194 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mynydd.github.io/glyderau/manifests/manifest3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Glyderau",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Photos from a trip to the Glyderau",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Paul Storey, private collection",
+  "sequences" : [ {
+    "@id" : "http://6b1fec40-0b99-4d92-aecd-30d041c7a6de",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://45dedb41-1875-4460-a5e8-8f25b274cf03",
+      "@type" : "sc:Canvas",
+      "label" : "Cwm Idwal",
+      "height" : 3120,
+      "width" : 4160,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6bd6cac8-b859-4ed1-bbfd-faf8e183766d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/cwmidwal.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/cwmidwal.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 12979200,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3120,
+          "width" : 4160
+        },
+        "on" : "http://45dedb41-1875-4460-a5e8-8f25b274cf03"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f434b15e-653a-4280-9150-8ac015391f7e",
+      "@type" : "sc:Canvas",
+      "label" : "Y Garn",
+      "height" : 3120,
+      "width" : 4160,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c63253f9-8216-4c14-bb93-a1f1bb9a2e47",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/ygarn.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/ygarn.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 12979200,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3120,
+          "width" : 4160
+        },
+        "on" : "http://f434b15e-653a-4280-9150-8ac015391f7e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://025ebe0f-2367-408b-9306-76ec1caf090c",
+      "@type" : "sc:Canvas",
+      "label" : "Afon Idwal",
+      "height" : 3120,
+      "width" : 4160,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f8ec8480-cf9a-41ac-96d7-c481dc5ae0b0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/afonidwal.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/afonidwal.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 12979200,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3120,
+          "width" : 4160
+        },
+        "on" : "http://025ebe0f-2367-408b-9306-76ec1caf090c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2ece2229-b6d3-47f7-bc68-07d67c35b7fb",
+      "@type" : "sc:Canvas",
+      "label" : "Nant Ffrancon",
+      "height" : 3120,
+      "width" : 4160,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2c36dcde-762c-486d-9bee-3b615216698a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/nantffrancon.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/nantffrancon.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 12979200,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3120,
+          "width" : 4160
+        },
+        "on" : "http://2ece2229-b6d3-47f7-bc68-07d67c35b7fb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d29a1a28-c575-4205-ad74-c9218d1e50fb",
+      "@type" : "sc:Canvas",
+      "label" : "Idwal Cottage",
+      "height" : 3120,
+      "width" : 4160,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5b812a9c-11b7-49d5-bb31-808e7d9cebf7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/idwalcottage.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/idwalcottage.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 12979200,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3120,
+          "width" : 4160
+        },
+        "on" : "http://d29a1a28-c575-4205-ad74-c9218d1e50fb"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/accommodation", "http://example.org/iiif/book1/range/outandabout" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/accommodation",
+    "@type" : "sc:Range",
+    "label" : "Accommodation",
+    "canvases" : [ "http://d29a1a28-c575-4205-ad74-c9218d1e50fb" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/outandabout",
+    "@type" : "sc:Range",
+    "label" : "Out and about",
+    "canvases" : [ "http://f434b15e-653a-4280-9150-8ac015391f7e", "http://45dedb41-1875-4460-a5e8-8f25b274cf03", "http://025ebe0f-2367-408b-9306-76ec1caf090c", "http://2ece2229-b6d3-47f7-bc68-07d67c35b7fb" ]
+  } ]
+}
