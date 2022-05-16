@@ -29,12 +29,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/cwmidwal.jpg/full/full/0/default.jpg",
+          "@id" : "https://mynydd.github.io/glyderau/images/cwmidwal/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/cwmidwal.jpg",
+            "@id" : "https://mynydd.github.io/glyderau/images/cwmidwal",
             "profile" : [ "http://iiif.io/api/image/2/level2.json", {
               "formats" : [ "jpg", "tif", "gif", "png" ],
               "maxArea" : 12979200,
@@ -60,12 +60,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/ygarn.jpg/full/full/0/default.jpg",
+          "@id" : "https://mynydd.github.io/glyderau/images/ygarn/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/ygarn.jpg",
+            "@id" : "https://mynydd.github.io/glyderau/images/ygarn",
             "profile" : [ "http://iiif.io/api/image/2/level2.json", {
               "formats" : [ "jpg", "tif", "gif", "png" ],
               "maxArea" : 12979200,
@@ -91,12 +91,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/afonidwal.jpg/full/full/0/default.jpg",
+          "@id" : "https://mynydd.github.io/glyderau/images/afonidwal/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/afonidwal.jpg",
+            "@id" : "https://mynydd.github.io/glyderau/images/afonidwal",
             "profile" : [ "http://iiif.io/api/image/2/level2.json", {
               "formats" : [ "jpg", "tif", "gif", "png" ],
               "maxArea" : 12979200,
@@ -122,12 +122,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/nantffrancon.jpg/full/full/0/default.jpg",
+          "@id" : "https://mynydd.github.io/glyderau/images/nantffrancon/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/nantffrancon.jpg",
+            "@id" : "https://mynydd.github.io/glyderau/images/nantffrancon",
             "profile" : [ "http://iiif.io/api/image/2/level2.json", {
               "formats" : [ "jpg", "tif", "gif", "png" ],
               "maxArea" : 12979200,
@@ -153,12 +153,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/idwalcottage.jpg/full/full/0/default.jpg",
+          "@id" : "https://mynydd.github.io/glyderau/images/idwalcottage/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/idwalcottage.jpg",
+            "@id" : "https://mynydd.github.io/glyderau/images/idwalcottage",
             "profile" : [ "http://iiif.io/api/image/2/level2.json", {
               "formats" : [ "jpg", "tif", "gif", "png" ],
               "maxArea" : 12979200,
