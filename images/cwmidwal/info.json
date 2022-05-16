@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 130,
+    "height" : 98
+  }, {
+    "width" : 260,
+    "height" : 195
+  }, {
+    "width" : 520,
+    "height" : 390
+  }, {
+    "width" : 1040,
+    "height" : 780
+  }, {
+    "width" : 2080,
+    "height" : 1560
+  }, {
+    "width" : 4160,
+    "height" : 3120
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4160,
+  "@id" : "https://mynydd.github.io/glyderau/images/cwmidwal",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3120
+}
